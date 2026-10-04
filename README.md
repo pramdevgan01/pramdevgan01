@@ -116,10 +116,6 @@ I am open to collaborating on:
 
 <img src="https://streak-stats.demolab.com?user=pramdevgan01&theme=tokyonight&hide_border=true&background=0d1117&ring=67e8f9&fire=38bdf8&currStreakLabel=67e8f9" />
 
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pramdevgan01&bg_color=0d1117&color=67e8f9&line=38bdf8&point=ffffff&area=true&hide_border=true"/>
-
 </div>
 
 <img src="./assets/divider-tech-luxe.svg" width="100%" alt="" />
