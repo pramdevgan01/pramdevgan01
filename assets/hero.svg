@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#818cf8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+
+  <circle cx="260" cy="90" r="220" fill="url(#glowA)">
+    <animate attributeName="cx" values="260;340;260" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="920" cy="300" r="250" fill="url(#glowB)">
+    <animate attributeName="cx" values="920;860;920" dur="18s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="54" y="48" width="1092" height="264" rx="24" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+  <rect x="56" y="50" width="1088" height="1" fill="#ffffff" fill-opacity="0.20"/>
+
+  <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="130" font-size="52" font-weight="600" letter-spacing="0.6" fill="#f8fafc">Pramatma Vishwakarma (Param)</text>
+    <text x="600" y="178" font-size="15" letter-spacing="3.2" fill="#94a3b8">FULL-STACK DEVELOPER</text>
+    <text x="600" y="216" font-size="13" letter-spacing="2.2" fill="#67e8f9">JAVA  ·  PYTHON  ·  JAVASCRIPT  ·  DOCKER  ·  AZURE</text>
+    <text x="600" y="254" font-size="14" fill="#cbd5e1">Building reliable products with architectural clarity and modern engineering practices.</text>
+  </g>
+</svg>
