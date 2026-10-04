@@ -1,27 +1,21 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Hero" />
+<img src="./assets/hero.svg" width="100%" alt="Pramatma Vishwakarma (Param)" />
 
 <br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3400&pause=1400&color=94A3B8&center=true&vCenter=true&width=860&lines=Designing+systems%2C+not+just+features.;Shipping+cloud-native+applications+with+discipline.;Learning+continuously%2C+building+for+long-term+value." alt="Typing"/>
-</a>
-
-<br/><br/>
 
 <sub>Full-Stack Developer · Java Full Stack Enthusiast · Python Full Stack Developer</sub>
 
 <br/><br/>
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <sub>PHILOSOPHY</sub>
 
 ### I don't just write code.
 ### I design systems, solve real problems, and build software that lasts.
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <sub>ENGINEERING FOCUS</sub>
 
@@ -32,7 +26,7 @@
 
 <br/><br/>
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <sub>TECHNOLOGY ARSENAL</sub>
 
@@ -42,7 +36,7 @@
 
 <br/><br/>
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <sub>WORKFLOW</sub>
 
@@ -53,52 +47,27 @@ A([Idea]) --> B([Design]) --> C([Develop]) --> D([Containerize]) --> E([Deploy])
 F -. feedback .-> A
 ```
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="./assets/glass-collab.svg" width="100%" alt="Collaboration" />
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-
-<sub>ANALYTICS</sub>
+<img src="./assets/glass-collab.svg" width="100%" alt="Open to collaboration" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pramdevgan01&show_icons=true&theme=transparent&hide_border=true&title_color=67e8f9&icon_color=818cf8&text_color=cbd5e1" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramdevgan01&layout=compact&theme=transparent&hide_border=true&title_color=67e8f9&text_color=cbd5e1" alt="Top languages"/>
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<a href="https://github.com/pramdevgan01?tab=repositories"><img src="./assets/glass-github.svg" width="100%" alt="Building in public" /></a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pramdevgan01&theme=transparent&hide_border=true&ring=67e8f9&fire=818cf8&currStreakLabel=67e8f9&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="Streak stats"/>
-
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-
-<sub>CONTRIBUTION ACTIVITY</sub>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pramdevgan01&bg_color=0d1117&color=67e8f9&line=818cf8&point=f8fafc&area=true&hide_border=true" width="100%" alt="Contribution graph" />
-
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-
-<sub>ACHIEVEMENTS</sub>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pramdevgan01&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <sub>DEVELOPER JOURNEY</sub>
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0b1220','primaryTextColor':'#e2e8f0','primaryBorderColor':'#818cf8','lineColor':'#475569'}}}%%
-flowchart LR
-A[Programming Fundamentals] --> B[Web Development] --> C[Full-Stack Projects] --> D[Cloud and Containers] --> E[Spring Ecosystem] --> F[Scalable Applications]
-```
+<br/>
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/glass-journey.svg" width="100%" alt="Developer journey timeline" />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <sub>BEYOND CODING</sub>
 
@@ -111,7 +80,7 @@ Problem solving · Continuous learning · Building useful products · Exploring 
 > Great software is not built by writing more code.  
 > It is built by solving the right problems with clarity and intent.
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <sub>CONNECT</sub>
 
