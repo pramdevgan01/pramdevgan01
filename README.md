@@ -79,21 +79,6 @@ F -. Feedback Loop .-> A
 
 <img src="./assets/divider-tech-luxe.svg" width="100%" alt="" />
 
-## Highlighted Projects
-
-> Replace the placeholders below with your best repositories.
-
-- **[PROJECT_01_NAME](https://github.com/pramdevgan01/PROJECT_01_REPO)**  
-  `One-line impact statement about what problem it solves.`
-
-- **[PROJECT_02_NAME](https://github.com/pramdevgan01/PROJECT_02_REPO)**  
-  `One-line impact statement about architecture / scale / usefulness.`
-
-- **[PROJECT_03_NAME](https://github.com/pramdevgan01/PROJECT_03_REPO)**  
-  `One-line impact statement about tech depth and outcomes.`
-
-<img src="./assets/divider-tech-luxe.svg" width="100%" alt="" />
-
 ## Open Source & Collaboration
 
 I am open to collaborating on:
